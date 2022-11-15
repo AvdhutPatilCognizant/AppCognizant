@@ -21,6 +21,7 @@ public class Armstrong_no {
 		else {
 			System.out.println("Not armstrong no");
 		}
+		System.out.println("Edit done");
 	}
 
 }
